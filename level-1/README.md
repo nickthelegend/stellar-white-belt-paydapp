@@ -7,8 +7,8 @@ you connect the Freighter wallet, fund your account, see your XLM balance, and s
 an XLM payment to any address — with clear success / failure feedback and a link to
 the transaction on a block explorer.
 
-**Live demo:** https://NIVESH-USERNAME.github.io/stellar-white-belt-paydapp/
-_(replace with your GitHub Pages URL after the first deploy — see [Deploy](#deploy))_
+**Live demo:** https://nickthelegend.github.io/stellar-white-belt-paydapp/
+_(goes live after the GitHub Pages deploy finishes — see [Deploy](#deploy))_
 
 ---
 
@@ -61,7 +61,7 @@ extension set to **Testnet**.
 
 ```bash
 # 1. Clone and enter the project
-git clone https://github.com/NIVESH-USERNAME/stellar-white-belt-paydapp.git
+git clone https://github.com/nickthelegend/stellar-white-belt-paydapp.git
 cd stellar-white-belt-paydapp/level-1
 
 # 2. Install dependencies
