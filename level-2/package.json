@@ -1,0 +1,22 @@
+{
+  "name": "stellar-yellow-belt-crowdfund",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Level 2 Yellow Belt — a Stellar/Soroban crowdfunding dApp with multi-wallet support, on-chain pledges, live event feed and transaction status tracking.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@creit.tech/stellar-wallets-kit": "^1.7.3",
+    "@stellar/stellar-sdk": "^13.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.7"
+  }
+}
